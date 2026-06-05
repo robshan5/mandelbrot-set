@@ -49,7 +49,7 @@ pip install numpy pillow
 ## Usage
 
 ```bash
-python mandelbrot_viewer.py
+python mandelbrot.py
 ```
 
 ### Controls
